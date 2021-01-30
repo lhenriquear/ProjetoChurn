@@ -3,7 +3,7 @@
 <p>  O projeto foi dividido em etapas, Sendo que são: <b> EDA,  Modelagem Churn, Recomendação de Games   </b> e <b> Recomendação de Usuários </b> </p >
 
 <h3> Integrantes: </h3>
-</br > 
+
 <a href="https://www.linkedin.com/in/marcustrugilho/"> Marcus </a> 
 </br >
 <a href="https://www.linkedin.com/in/yane-a-lopes/"> Dayane </a>
